@@ -5,8 +5,8 @@
 %global crate actix-rt
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        2.11.0
+Release:        1%{?dist}
 Summary:        Actix runtime
 
 # Upstream license specification: MIT/Apache-2.0
